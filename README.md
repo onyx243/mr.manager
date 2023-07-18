@@ -1,9 +1,9 @@
-# E.A.T (Employee Activity Tracker)
-E.A.T is a website specially built for companies to manage and track the activity of their employees. Through this employer can get a visual representation of work done by the employee. There are two modules in the website - one for admin (employer) and the other for employees. 
+# EmployeeEngage (Employee Activity Tracker)
+EmployeeEngage is a website specially built for companies to manage and track the activity of their employees. Through this employer can get a visual representation of work done by the employee. There are two modules in the website - one for admin (employer) and the other for employees. 
 
 Employer Side: Employer can access the admin side through the admin details provided to the employer. The employer will create a login account for each employee by simply adding his details. Employee can access the website (employee's side) through these details. Apart from that, employer can see the tasks performed by his employees and the proportion of time spent in meetings, work, break in a visual manner through pie charts, stacked bar chart, etc.
 
-Employee Side: Employee will login to E.A.T through the credentials provided by the employee. On the website, he will get an option to add tasks with date and time performed. Those added tasks will generate pie charts and graphs for the employee. And the same will also be accessible for the employer. In this way, E.A.T will help employers and employees both to keep a track of their activity.
+Employee Side: Employee will login to EmployeeEngage through the credentials provided by the employee. On the website, he will get an option to add tasks with date and time performed. Those added tasks will generate pie charts and graphs for the employee. And the same will also be accessible for the employer. In this way, EmployeeEngage will help employers and employees both to keep a track of their activity.
 
 # Setup
 
@@ -31,7 +31,7 @@ ADMIN_PASSWORD = "admin"
 
 6. Then, you are ready to access the website and to login as an admin, you need to use the email ```admin@gmail.com``` and password ```admin``` as mentioned in the ```.env``` file. Now, the details to access and use the website are given below.
 
-# Using E.A.T Admin
+# Using EmployeeEngage Admin
 
 1. You will appear on the login page, you need to enter the admin details as below.
 
@@ -57,7 +57,7 @@ ADMIN_PASSWORD = "admin"
 
 7. Now, the employee can Logout by simply clicking logout button on the bottom left corner.
 
-# Using E.A.T Employee
+# Using EmployeeEngage Employee
 
 1. Login with the employee credentials that were given by the employer.
 
@@ -83,6 +83,6 @@ ADMIN_PASSWORD = "admin"
 
 # Thanks a lot!
 
-Thankyou for being here until the end! Hope you like E.A.T and make use of it to the fullest.
+Thankyou for being here until the end! Hope you like EmployeeEngage and make use of it to the fullest.
 
 
